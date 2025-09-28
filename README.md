@@ -10,25 +10,25 @@ A third-person 3D fighting game featuring combat mechanics, enemy AI, and arena-
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot1.jpg)
 Main menu
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot2.jpg)
 Controls menu
 
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 3](screenshots/screenshot3.jpg)
 Volume control in options
 
-![Screenshot 4](screenshots/screenshot4.png)
+![Screenshot 4](screenshots/screenshot4.jpg)
 Third person camera and movement
 
-![Screenshot 5](screenshots/screenshot5.png)
+![Screenshot 5](screenshots/screenshot5.jpg)
 Fighting enemy
 
-![Screenshot 6](screenshots/screenshot6.png)
+![Screenshot 6](screenshots/screenshot6.jpg)
 Fighting enemy but blocking
 
-![Screenshot 7](screenshots/screenshot7.png)
+![Screenshot 7](screenshots/screenshot7.jpg)
 Approaching boss
 
 ## Features
