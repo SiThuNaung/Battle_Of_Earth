@@ -1,5 +1,5 @@
 # Get the Source Files on Google Drive and feel free to leave comment for improvement.
-Google Drive Link :[SourceCode](https://drive.google.com/drive/folders/1_9ztw9RI5Rabo-W0CcZzkeRdKafFWUnc?usp=sharing)
+Google Drive Link : [SourceCode](https://drive.google.com/drive/folders/1_9ztw9RI5Rabo-W0CcZzkeRdKafFWUnc?usp=sharing)
 
 # 3D Battle On Earth
 
@@ -64,13 +64,13 @@ Approaching boss
 ## Installation
 
 ### For Players:
-1. Download the latest release from [Releases](https://minn01.itch.io/battle-on-earth)
+1. Download the latest release from [itch.io](https://minn01.itch.io/battle-on-earth)
 2. Extract the zip file
 3. Run the executable file
 4. Enjoy!
 
 ### For Developers:
-1. Check out the google cloud link in this link : [itch.io](https://minn01.itch.io/battle-on-earth) 
+1. Check out the google drive link in this link : [SourceCode](https://drive.google.com/drive/folders/1_9ztw9RI5Rabo-W0CcZzkeRdKafFWUnc?usp=sharing) 
 2. Open Unity Hub
 3. Click "Open" and select the project folder
 4. Wait for Unity to import all assets
@@ -179,7 +179,7 @@ Approaching boss
 
 MIT License
 
-Copyright (c) 2025 [Min Thant]
+Copyright (c) 2025 [Min Thant,Si Thu Naung,Thant Zin Min]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
